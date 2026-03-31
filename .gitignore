@@ -1,0 +1,5 @@
+.DS_Store
+# optional ignores
+# .idea/
+# node_modules/
+# *.log
